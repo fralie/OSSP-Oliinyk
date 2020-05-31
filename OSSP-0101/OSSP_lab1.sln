@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OSSP_lab1", "OSSP_lab1\OSSP_lab1.vcxproj", "{EAC88514-0D99-45C5-879F-86D28BE3AF63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC88514-0D99-45C5-879F-86D28BE3AF63}.Debug|x64.ActiveCfg = Debug|x64
+		{EAC88514-0D99-45C5-879F-86D28BE3AF63}.Debug|x64.Build.0 = Debug|x64
+		{EAC88514-0D99-45C5-879F-86D28BE3AF63}.Debug|x86.ActiveCfg = Debug|Win32
+		{EAC88514-0D99-45C5-879F-86D28BE3AF63}.Debug|x86.Build.0 = Debug|Win32
+		{EAC88514-0D99-45C5-879F-86D28BE3AF63}.Release|x64.ActiveCfg = Release|x64
+		{EAC88514-0D99-45C5-879F-86D28BE3AF63}.Release|x64.Build.0 = Release|x64
+		{EAC88514-0D99-45C5-879F-86D28BE3AF63}.Release|x86.ActiveCfg = Release|Win32
+		{EAC88514-0D99-45C5-879F-86D28BE3AF63}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A8B21FB-B61E-4BD9-AD27-B9BE95047E49}
+	EndGlobalSection
+EndGlobal
